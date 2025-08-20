@@ -1,5 +1,8 @@
-public class Exo1 {
-    public static void main(String[] args) {
-        System.out.println("olaaaaaa!");
-    }
-}
+//import java.util.Date;
+//public class Exo1 {
+   // public static void main(String[] args) {
+      //  Date relogio = new Date();
+       // System.out.println("A hora do sistema é");
+       // System.out.println(relogio.toString());
+   // }
+//}
