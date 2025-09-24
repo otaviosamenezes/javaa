@@ -32,6 +32,8 @@ public class PratAula13 {
             labelResultado.setText("Número: " + r);
             if (r == n) {
              Sorte.setText("Parabéns seu numero da sorte foi " + n);
+            }else {
+                Sorte.setText("Tente novamente");
             }
         });
         janela.add(texto);
